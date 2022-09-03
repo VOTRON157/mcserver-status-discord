@@ -1,3 +1,3 @@
 # mcserver-status-discord
 Fique mostrando o status do seu servidor de minecraft no discord
-![example](https://discord.com/api/webhooks/1015682798197162034/QpnrXEqxu7FJhhK2zj5MppPm-vcx_l6AoPBtYetUCNl_i6_oG_eGVtg_MniFbY7JaYOw)
+![example](https://media.discordapp.net/attachments/722887140723392625/1015750033389404280/unknown.png?width=842&height=473)
